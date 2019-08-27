@@ -1,2 +1,2 @@
 # WebRTC
-WebRTC Sample
+WebCam Caputure Sample
