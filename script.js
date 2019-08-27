@@ -9,7 +9,6 @@ let localStream = null;
 
 navigator.getUserMedia( {video: true, audio: false}, success, error);
 
-
 function success(stream) { // for success case
   webcam.srcObject = stream;
   console.log(stream);
