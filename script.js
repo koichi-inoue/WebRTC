@@ -15,5 +15,5 @@ function success(stream) { // for success case
 }
 
 function error(err) { // for error case
-	console.log(err);
+  console.log(err);
 }
